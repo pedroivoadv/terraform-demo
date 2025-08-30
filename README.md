@@ -8,6 +8,8 @@ Terraform é uma ferramenta de infraestrutura como código (IaC) desenvolvida pe
 
 Antes de começar, você deve instalar o Terraform em seu computador. Siga as instruções oficiais para instalar o Terraform no seu sistema operacional: [https://www.terraform.io/downloads.html](https://www.terraform.io/downloads.html)
 
+sudo apt install terraform
+
 ## 2. Configuração do ambiente
 
 Para começar, crie uma pasta para armazenar seus arquivos de configuração do Terraform. Neste exemplo, criaremos uma pasta chamada "meu_projeto_terraform":
